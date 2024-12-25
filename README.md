@@ -1,10 +1,13 @@
 # Hello!
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ya7on)](https://github.com/ya7on)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ya7on" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ya7on&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ya7on&hide_progress=true)
-
-## Repo i contributed
+## Repos i contributed
 
 - <a href="https://github.com/ya7on/leopardybot"><b>leopardybot</b></a> - Jeopardy like game made for telegram bot
 - <a href="https://github.com/ya7on/mine-rs"><b>mine-rs</b></a> - Minecraft server implementation written in Rust from scratch
