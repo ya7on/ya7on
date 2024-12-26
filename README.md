@@ -1,9 +1,9 @@
 # Hello!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ya7on">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ya7on" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/ya7on">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ya7on&layout=compact&langs_count=8&card_width=320" />
 </a>
 
