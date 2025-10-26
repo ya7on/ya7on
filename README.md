@@ -10,6 +10,7 @@
 ### My contributions
 
 - <a href="https://github.com/hyperium/tonic/pull/2348">hyperium/tonic#2348</a>
+- <a href="https://github.com/liketurbo/tonapi-rs/pull/3">liketurbo/tonapi-rs#3</a>, <a href="https://github.com/liketurbo/tonapi-rs/pull/4">liketurbo/tonapi-rs#4</a>
 
 ### SupaDupaDAO
 
@@ -27,6 +28,7 @@ Organization for making open source Minecraft server hosting software
 
 ### My pet projects
 
+- <a href="https://github.com/ya7on/tutti"><b>Tutti CLI</b> - Lightweight CLI tool for orchestrating processes
 - <a href="https://github.com/ya7on/leopardybot"><b>leopardybot</b></a> - Jeopardy like game made for telegram bot
 - <a href="https://github.com/ya7on/mine-rs"><b>mine-rs</b></a> - Minecraft server implementation written in Rust from scratch
 - <a href="https://github.com/ya7on/mclib"><b>mclib</b></a> - Utils crate for Minecraft implementation above
