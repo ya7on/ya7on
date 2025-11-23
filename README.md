@@ -12,6 +12,10 @@
 - <a href="https://github.com/hyperium/tonic/pull/2348">hyperium/tonic#2348</a>
 - <a href="https://github.com/liketurbo/tonapi-rs/pull/3">liketurbo/tonapi-rs#3</a>, <a href="https://github.com/liketurbo/tonapi-rs/pull/4">liketurbo/tonapi-rs#4</a>
 
+### My pet projects
+- <a href="https://github.com/ya7on/tutti"><b>Tutti CLI</b></a> - Lightweight CLI tool for orchestrating processes
+- <a href="https://github.com/ya7on/mb8"><b>MB8</b></a> - 8-bit fantasy computer with CP/M like OS written in assembly language
+
 ### SupaDupaDAO
 
 Organization for making DAO management tool for The Open Network
@@ -26,9 +30,8 @@ Organization for making open source Minecraft server hosting software
 - <a href="https://github.com/donkey-engine/donkey-engine"><b>donkey-engine</b></a> - Backend service: API, server assembling/building and hosting
 - <a href="https://github.com/donkey-engine/rcon-rs"><b>rcon-rs</b></a> - RCON protocol client for Rust (<a href="https://developer.valvesoftware.com/wiki/Source_RCON_Protocol">What is RCON?</a>)
 
-### My pet projects
+### Other
 
-- <a href="https://github.com/ya7on/tutti"><b>Tutti CLI</b></a> - Lightweight CLI tool for orchestrating processes
 - <a href="https://github.com/ya7on/leopardybot"><b>leopardybot</b></a> - Jeopardy like game made for telegram bot
 - <a href="https://github.com/ya7on/mine-rs"><b>mine-rs</b></a> - Minecraft server implementation written in Rust from scratch
 - <a href="https://github.com/ya7on/mclib"><b>mclib</b></a> - Utils crate for Minecraft implementation above
