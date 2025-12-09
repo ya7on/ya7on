@@ -39,7 +39,7 @@
 27. ❌ Closed [PR #64](https://github.com/ya7on/mb8/pull/64) in [ya7on/mb8](https://github.com/ya7on/mb8)
 28. 📥 Opened [PR #64](https://github.com/ya7on/mb8/pull/64) in [ya7on/mb8](https://github.com/ya7on/mb8)
 29. 🎉 Created a new branch [`wasm`](https://github.com/ya7on/mb8/tree/wasm) in [ya7on/mb8](https://github.com/ya7on/mb8)
-30. 📝 Committed to [ya7on/mb8](https://github.com/ya7on/mb8/commit/14498c01c05835c549e9638fbfd5cf9dfb9bba2b)
+30. 🗑️ Deleted a branch `while_stmt` in [ya7on/mb8](https://github.com/ya7on/mb8)
 <!--END_SECTION:activity-->
 
 ### My pet projects
