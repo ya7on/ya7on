@@ -38,8 +38,8 @@
 26. 📥 Opened [PR #92](https://github.com/ya7on/mb8/pull/92) in [ya7on/mb8](https://github.com/ya7on/mb8)
 27. 🎉 Created a new branch [`add_makefile_rule_debug`](https://github.com/ya7on/mb8/tree/add_makefile_rule_debug) in [ya7on/mb8](https://github.com/ya7on/mb8)
 28. ❌ Closed an issue [#77](https://github.com/ya7on/mb8/issues/77) in [ya7on/mb8](https://github.com/ya7on/mb8)
-29. 📝 Committed to [ya7on/mb8](https://github.com/ya7on/mb8/commit/5ed736dd8cb37f34e4a98cfd303b81bfca448917)
-30. 🗑️ Deleted a branch `pointer_type` in [ya7on/mb8](https://github.com/ya7on/mb8)
+29. 🗑️ Deleted a branch `pointer_type` in [ya7on/mb8](https://github.com/ya7on/mb8)
+30. 📝 Committed to [ya7on/mb8](https://github.com/ya7on/mb8/commit/5ed736dd8cb37f34e4a98cfd303b81bfca448917)
 <!--END_SECTION:activity-->
 
 ### My pet projects
