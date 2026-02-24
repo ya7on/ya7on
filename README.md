@@ -10,7 +10,7 @@
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)
+1. 🔔 Watching [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)
 2. 🗑️ Deleted a branch `renovate/anyhow-1.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
 3. 🗑️ Deleted a branch `renovate/clap-4.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
 4. 🗑️ Deleted a branch `renovate/toml-1.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
