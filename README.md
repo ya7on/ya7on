@@ -35,10 +35,9 @@
 23. 📝 Committed to [ya7on/mb8](https://github.com/ya7on/mb8/commit/4ff89ddb90e343bc20b9363670d958f1d72b9140)
 24. 🔀 Merged [PR #94](https://github.com/ya7on/mb8/pull/94) in [ya7on/mb8](https://github.com/ya7on/mb8)
 25. 📥 Opened [PR #94](https://github.com/ya7on/mb8/pull/94) in [ya7on/mb8](https://github.com/ya7on/mb8)
-26. 🎉 Created a new branch [`add_pong`](https://github.com/ya7on/mb8/tree/add_pong) in [ya7on/mb8](https://github.com/ya7on/mb8)
-27. 🔀 Merged [PR #93](https://github.com/ya7on/mb8/pull/93) in [ya7on/mb8](https://github.com/ya7on/mb8)
-28. 🗣 Commented on issue [#93](https://github.com/ya7on/mb8/issues/93) in [ya7on/mb8](https://github.com/ya7on/mb8): [View Comment](https://github.com/ya7on/mb8/issues/93#issuecomment-3867391819)
-29. 📥 Opened [PR #93](https://github.com/ya7on/mb8/pull/93) in [ya7on/mb8](https://github.com/ya7on/mb8)
+26. 🔀 Merged [PR #93](https://github.com/ya7on/mb8/pull/93) in [ya7on/mb8](https://github.com/ya7on/mb8)
+27. 🗣 Commented on issue [#93](https://github.com/ya7on/mb8/issues/93) in [ya7on/mb8](https://github.com/ya7on/mb8): [View Comment](https://github.com/ya7on/mb8/issues/93#issuecomment-3867391819)
+28. 📥 Opened [PR #93](https://github.com/ya7on/mb8/pull/93) in [ya7on/mb8](https://github.com/ya7on/mb8)
 <!--END_SECTION:activity-->
 
 ### My pet projects
