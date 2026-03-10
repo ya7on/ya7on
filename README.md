@@ -35,7 +35,6 @@
 23. 📥 Opened [PR #94](https://github.com/ya7on/mb8/pull/94) in [ya7on/mb8](https://github.com/ya7on/mb8)
 24. 🔀 Merged [PR #93](https://github.com/ya7on/mb8/pull/93) in [ya7on/mb8](https://github.com/ya7on/mb8)
 25. 🗣 Commented on issue [#93](https://github.com/ya7on/mb8/issues/93) in [ya7on/mb8](https://github.com/ya7on/mb8): [View Comment](https://github.com/ya7on/mb8/issues/93#issuecomment-3867391819)
-26. 📥 Opened [PR #93](https://github.com/ya7on/mb8/pull/93) in [ya7on/mb8](https://github.com/ya7on/mb8)
 <!--END_SECTION:activity-->
 
 ### My pet projects
