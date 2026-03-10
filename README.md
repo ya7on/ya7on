@@ -36,10 +36,9 @@
 24. 🔀 Merged [PR #94](https://github.com/ya7on/mb8/pull/94) in [ya7on/mb8](https://github.com/ya7on/mb8)
 25. 📥 Opened [PR #94](https://github.com/ya7on/mb8/pull/94) in [ya7on/mb8](https://github.com/ya7on/mb8)
 26. 🎉 Created a new branch [`add_pong`](https://github.com/ya7on/mb8/tree/add_pong) in [ya7on/mb8](https://github.com/ya7on/mb8)
-27. 🗑️ Deleted a branch `bitmap_mode_gpu` in [ya7on/mb8](https://github.com/ya7on/mb8)
-28. 🔀 Merged [PR #93](https://github.com/ya7on/mb8/pull/93) in [ya7on/mb8](https://github.com/ya7on/mb8)
-29. 🗣 Commented on issue [#93](https://github.com/ya7on/mb8/issues/93) in [ya7on/mb8](https://github.com/ya7on/mb8): [View Comment](https://github.com/ya7on/mb8/issues/93#issuecomment-3867391819)
-30. 📥 Opened [PR #93](https://github.com/ya7on/mb8/pull/93) in [ya7on/mb8](https://github.com/ya7on/mb8)
+27. 🔀 Merged [PR #93](https://github.com/ya7on/mb8/pull/93) in [ya7on/mb8](https://github.com/ya7on/mb8)
+28. 🗣 Commented on issue [#93](https://github.com/ya7on/mb8/issues/93) in [ya7on/mb8](https://github.com/ya7on/mb8): [View Comment](https://github.com/ya7on/mb8/issues/93#issuecomment-3867391819)
+29. 📥 Opened [PR #93](https://github.com/ya7on/mb8/pull/93) in [ya7on/mb8](https://github.com/ya7on/mb8)
 <!--END_SECTION:activity-->
 
 ### My pet projects
