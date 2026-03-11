@@ -10,27 +10,9 @@
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch `renovate/libc-0.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
-2. 🗑️ Deleted a branch `renovate/toml-1.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
-3. 🗑️ Deleted a branch `renovate/toml-1.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
-4. 🗑️ Deleted a branch `renovate/major-github-artifact-actions` in [ya7on/tutti](https://github.com/ya7on/tutti)
-5. 🔔 Watching [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)
-6. 🗑️ Deleted a branch `renovate/anyhow-1.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
-7. 🗑️ Deleted a branch `renovate/clap-4.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
-8. 🗑️ Deleted a branch `renovate/toml-1.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
-9. 📝 Committed to [MathAndMagic/rusty-celery](https://github.com/MathAndMagic/rusty-celery/commit/f6eea7ac42742381b1996cf923260f9dc00caefa)
-10. 🍴 Forked [rusty-celery/rusty-celery](https://github.com/rusty-celery/rusty-celery)
-11. 🗑️ Deleted a branch `renovate/clap-4.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
-12. 🗑️ Deleted a branch `renovate/toml-1.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
-13. ⭐ Starred [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust)
-14. 🗑️ Deleted a branch `renovate/rust-futures-monorepo` in [ya7on/tutti](https://github.com/ya7on/tutti)
-15. 🗑️ Deleted a branch `renovate/libc-0.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
-16. 🗑️ Deleted a branch `renovate/toml-1.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
-17. 🗑️ Deleted a branch `renovate/toml-1.x` in [ya7on/tutti](https://github.com/ya7on/tutti)
-18. 🗑️ Deleted a branch `renovate/clap-4.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
-19. 🗑️ Deleted a branch `renovate/libc-0.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
-20. 📝 Committed to [ya7on/tutti](https://github.com/ya7on/tutti/commit/c15db997d6886198635cedfd356022ada29a1781)
-21. 🗑️ Deleted a branch `renovate/toml-0.x-lockfile` in [ya7on/tutti](https://github.com/ya7on/tutti)
+1. 🚀 Published release v1.0.0 in [ya7on/darwen](https://github.com/ya7on/darwen/releases/tag/v1.0.0)
+2. 🔀 Merged PR #1 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/1)
+3. 📥 Opened PR #1 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/1)
 <!--END_SECTION:activity-->
 
 ### My pet projects
