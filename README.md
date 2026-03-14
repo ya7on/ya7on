@@ -10,19 +10,21 @@
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR #6 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/6)
-2. 📥 Opened PR #6 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/6)
-3. 🔀 Merged PR #5 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/5)
-4. 📥 Opened PR #5 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/5)
-5. 🔀 Merged PR #4 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/4)
-6. 📥 Opened PR #4 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/4)
-7. 🔀 Merged PR #3 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/3)
-8. 📥 Opened PR #3 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/3)
-9. 🔀 Merged PR #2 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/2)
-10. 📥 Opened PR #2 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/2)
-11. 🚀 Published release v1.0.0 in [ya7on/darwen](https://github.com/ya7on/darwen/releases/tag/v1.0.0)
-12. 🔀 Merged PR #1 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/1)
-13. 📥 Opened PR #1 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/1)
+1. 🔀 Merged PR #7 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/7)
+2. 📥 Opened PR #7 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/7)
+3. 🔀 Merged PR #6 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/6)
+4. 📥 Opened PR #6 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/6)
+5. 🔀 Merged PR #5 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/5)
+6. 📥 Opened PR #5 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/5)
+7. 🔀 Merged PR #4 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/4)
+8. 📥 Opened PR #4 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/4)
+9. 🔀 Merged PR #3 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/3)
+10. 📥 Opened PR #3 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/3)
+11. 🔀 Merged PR #2 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/2)
+12. 📥 Opened PR #2 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/2)
+13. 🚀 Published release v1.0.0 in [ya7on/darwen](https://github.com/ya7on/darwen/releases/tag/v1.0.0)
+14. 🔀 Merged PR #1 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/1)
+15. 📥 Opened PR #1 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/1)
 <!--END_SECTION:activity-->
 
 ### My pet projects
