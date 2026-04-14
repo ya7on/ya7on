@@ -16,8 +16,6 @@
 4. 📥 Opened PR #9 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/9)
 5. 🔀 Merged PR #8 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/8)
 6. 📥 Opened PR #8 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/8)
-7. 🔀 Merged PR #7 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/7)
-8. 📥 Opened PR #7 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/7)
 <!--END_SECTION:activity-->
 
 ### My pet projects
