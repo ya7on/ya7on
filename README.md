@@ -11,11 +11,6 @@
 
 <!--START_SECTION:activity-->
 1. 🆕 Opened issue #1 in [prathamdupare/ceo-hype-tracker](https://github.com/prathamdupare/ceo-hype-tracker/issues/1)
-2. 🔀 Merged PR #10 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/10)
-3. 📥 Opened PR #10 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/10)
-4. 📥 Opened PR #9 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/9)
-5. 🔀 Merged PR #8 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/8)
-6. 📥 Opened PR #8 in [ya7on/darwen](https://github.com/ya7on/darwen/pull/8)
 <!--END_SECTION:activity-->
 
 ### My pet projects
