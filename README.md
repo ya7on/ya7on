@@ -17,7 +17,6 @@
 5. ❌ Closed issue #13 in [ya7on/tutti](https://github.com/ya7on/tutti/issues/13)
 6. ❌ Closed issue #9 in [ya7on/tutti](https://github.com/ya7on/tutti/issues/9)
 7. ❌ Closed issue #12 in [ya7on/tutti](https://github.com/ya7on/tutti/issues/12)
-8. 🆕 Opened issue #1 in [prathamdupare/ceo-hype-tracker](https://github.com/prathamdupare/ceo-hype-tracker/issues/1)
 <!--END_SECTION:activity-->
 
 ### My pet projects
