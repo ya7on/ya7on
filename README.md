@@ -10,13 +10,18 @@
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed issue #34 in [ya7on/tutti](https://github.com/ya7on/tutti/issues/34)
-2. ❌ Closed issue #14 in [ya7on/tutti](https://github.com/ya7on/tutti/issues/14)
-3. ❌ Closed issue #33 in [ya7on/tutti](https://github.com/ya7on/tutti/issues/33)
-4. ❌ Closed issue #32 in [ya7on/tutti](https://github.com/ya7on/tutti/issues/32)
-5. ❌ Closed issue #13 in [ya7on/tutti](https://github.com/ya7on/tutti/issues/13)
-6. ❌ Closed issue #9 in [ya7on/tutti](https://github.com/ya7on/tutti/issues/9)
-7. ❌ Closed issue #12 in [ya7on/tutti](https://github.com/ya7on/tutti/issues/12)
+1. 📥 Opened PR #97 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/97)
+2. ❌ Closed issue #88 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/88)
+3. ❌ Closed issue #83 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/83)
+4. ❌ Closed issue #73 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/73)
+5. ❌ Closed issue #72 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/72)
+6. ❌ Closed issue #70 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/70)
+7. ❌ Closed issue #60 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/60)
+8. ❌ Closed issue #38 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/38)
+9. 🔀 Merged PR #96 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/96)
+10. 📥 Opened PR #96 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/96)
+11. 📥 Opened PR #95 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/95)
+12. 🔀 Merged PR #72 in [tact-lang/awesome-tact](https://github.com/tact-lang/awesome-tact/pull/72)
 <!--END_SECTION:activity-->
 
 ### My pet projects
