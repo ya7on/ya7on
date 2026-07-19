@@ -10,18 +10,19 @@
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened PR #97 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/97)
-2. ❌ Closed issue #88 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/88)
-3. ❌ Closed issue #83 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/83)
-4. ❌ Closed issue #73 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/73)
-5. ❌ Closed issue #72 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/72)
-6. ❌ Closed issue #70 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/70)
-7. ❌ Closed issue #60 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/60)
-8. ❌ Closed issue #38 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/38)
-9. 🔀 Merged PR #96 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/96)
-10. 📥 Opened PR #96 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/96)
-11. 📥 Opened PR #95 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/95)
-12. 🔀 Merged PR #72 in [tact-lang/awesome-tact](https://github.com/tact-lang/awesome-tact/pull/72)
+1. 🔀 Merged PR #97 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/97)
+2. 📥 Opened PR #97 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/97)
+3. ❌ Closed issue #88 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/88)
+4. ❌ Closed issue #83 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/83)
+5. ❌ Closed issue #73 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/73)
+6. ❌ Closed issue #72 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/72)
+7. ❌ Closed issue #70 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/70)
+8. ❌ Closed issue #60 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/60)
+9. ❌ Closed issue #38 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/38)
+10. 🔀 Merged PR #96 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/96)
+11. 📥 Opened PR #96 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/96)
+12. 📥 Opened PR #95 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/95)
+13. 🔀 Merged PR #72 in [tact-lang/awesome-tact](https://github.com/tact-lang/awesome-tact/pull/72)
 <!--END_SECTION:activity-->
 
 ### My pet projects
