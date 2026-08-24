@@ -35,11 +35,6 @@
 23. ❌ Closed issue #98 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/98)
 24. 📥 Opened PR #101 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/101)
 25. 🔀 Merged PR #100 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/100)
-26. 📥 Opened PR #100 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/100)
-27. 👤 Assigned issue #99 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/99)
-28. 🏷️ Added a label to issue #99 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/99)
-29. 🆕 Opened issue #99 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/99)
-30. 🏷️ Added a label to issue #98 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/98)
 <!--END_SECTION:activity-->
 
 ### My pet projects
