@@ -21,10 +21,6 @@
 9. 🆕 Opened issue #107 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/107)
 10. 🔀 Merged PR #106 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/106)
 11. 📥 Opened PR #106 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/106)
-12. 🔀 Merged PR #105 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/105)
-13. 📥 Opened PR #105 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/105)
-14. 🔀 Merged PR #104 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/104)
-15. 📥 Opened PR #104 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/104)
 <!--END_SECTION:activity-->
 
 ### My pet projects
