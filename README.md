@@ -13,14 +13,6 @@
 1. 🚀 Published release v0.1.0 in [ya7on/buyan](https://github.com/ya7on/buyan/releases/tag/v0.1.0)
 2. 🔀 Merged PR #1 in [ya7on/buyan](https://github.com/ya7on/buyan/pull/1)
 3. 📥 Opened PR #1 in [ya7on/buyan](https://github.com/ya7on/buyan/pull/1)
-4. 🔀 Merged PR #109 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/109)
-5. 📥 Opened PR #109 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/109)
-6. 🔀 Merged PR #108 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/108)
-7. 📥 Opened PR #108 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/108)
-8. 🏷️ Added a label to issue #107 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/107)
-9. 🆕 Opened issue #107 in [ya7on/mb8](https://github.com/ya7on/mb8/issues/107)
-10. 🔀 Merged PR #106 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/106)
-11. 📥 Opened PR #106 in [ya7on/mb8](https://github.com/ya7on/mb8/pull/106)
 <!--END_SECTION:activity-->
 
 ### My pet projects
