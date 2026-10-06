@@ -10,7 +10,12 @@
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release v0.1.0 in [ya7on/buyan](https://github.com/ya7on/buyan/releases/tag/v0.1.0)
+1. ❌ Closed issue #20 in [ya7on/mine-rs](https://github.com/ya7on/mine-rs/issues/20)
+2. ❌ Closed issue #19 in [ya7on/mine-rs](https://github.com/ya7on/mine-rs/issues/19)
+3. ❌ Closed issue #11 in [ya7on/mine-rs](https://github.com/ya7on/mine-rs/issues/11)
+4. ❌ Closed issue #9 in [ya7on/mine-rs](https://github.com/ya7on/mine-rs/issues/9)
+5. ❌ Closed issue #3 in [ya7on/mine-rs](https://github.com/ya7on/mine-rs/issues/3)
+6. ❌ Closed issue #2 in [ya7on/mine-rs](https://github.com/ya7on/mine-rs/issues/2)
 <!--END_SECTION:activity-->
 
 ### My pet projects
